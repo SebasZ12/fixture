@@ -1,0 +1,25 @@
+
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/base/_all.sass";
+@import "../node_modules/bulma/sass/elements/button.sass";
+@import "../node_modules/bulma/sass/elements/container.sass";
+@import "../node_modules/bulma/sass/elements/form.sass";
+@import "../node_modules/bulma/sass/elements/title.sass";
+@import "../node_modules/bulma/sass/layout/hero.sass";
+@import "../node_modules/bulma/sass/layout/section.sass";
+
+$m: 768px;
+
+body{
+    background-color: cadetblue;
+}
+
+.form{
+    align-self: auto;
+    margin: auto;
+    width: 500px;
+}
+
+.input{
+    border-color: black;
+}
