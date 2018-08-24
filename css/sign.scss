@@ -37,7 +37,7 @@ body{
   background: #FFFFFF;
   align-items: center;
   margin: auto;
-  padding: 45px;
+  padding: 0 45px 45px 45px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
 
@@ -51,6 +51,7 @@ body{
 
 .user-img{
     position: relative;
+    padding: 8% 0;
     
   }
   .user-img figure{
